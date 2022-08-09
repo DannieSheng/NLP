@@ -17,7 +17,7 @@ Can be used as base models | 可以作为基础模型用于更复杂的模型｜
 11. Hate Speech Detection Model (反动/反社会言论检测) [data and/or info](https://thecleverprogrammer.com/2020/08/19/hate-speech-detection-model/)
 12. ~~Whatsapp Group Chat Analysis~~
 13. Next Word Prediction Model (预测下一个词) [data and/or info](https://thecleverprogrammer.com/2020/07/20/next-word-prediction-model/)
-14. ~~Fake News detection Model (造谣新闻检测) ~~
+14. ~~Fake News detection Model (造谣新闻检测)~~
 15. ~~SMS Spam Detection Model~~
 
 ## [10 NLP projects to Boost Your Resume](https://neptune.ai/blog/10-nlp-projects)
