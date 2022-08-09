@@ -18,7 +18,7 @@ Can be used as base models | 可以作为基础模型用于更复杂的模型｜
 12. ~~Whatsapp Group Chat Analysis~~
 13. Next Word Prediction Model (预测下一个词) [data and/or info](https://thecleverprogrammer.com/2020/07/20/next-word-prediction-model/)
 14. ~~Fake News detection Model (造谣新闻检测) ~~
-~~15. SMS Spam Detection Model~~
+15. ~~SMS Spam Detection Model~~
 
 ## [10 NLP projects to Boost Your Resume](https://neptune.ai/blog/10-nlp-projects)
 1. Generating Research Papers Titles (自动生成科研论文标题) [Github repo](https://github.com/csinva/gpt2-paper-title-generator)
