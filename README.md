@@ -23,3 +23,5 @@ Can be used as base models | 可以作为基础模型用于更复杂的模型｜
 ## [10 NLP projects to Boost Your Resume](https://neptune.ai/blog/10-nlp-projects)
 1. Generating Research Papers Titles (自动生成科研论文标题) [Github repo](https://github.com/csinva/gpt2-paper-title-generator)
 2. Translate and Summarize News (新闻翻译及总结) [Info](https://abidlabs.github.io/Summarize-News/)
+
+## [Awesome project Ideas Github Repo](https://github.com/DannieSheng/awesome-project-ideas) (May be outdated)
