@@ -2,7 +2,7 @@
 ## [Basic NLP Project Topics](https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c)
 Can be used as base models | 可以作为基础模型用于更复杂的模型｜提供灵感
 1. Resume Screening (简历筛选) | [data and/or info](https://thecleverprogrammer.com/2020/12/06/resume-screening-with-python/#google_vignette)
-2. Named Entity Recognition | [data and/or info](https://thecleverprogrammer.com/2020/08/04/named-entity-recognition-ner/)
+2. Named Entity Recognition (实体命名识别) | [data and/or info](https://thecleverprogrammer.com/2020/08/04/named-entity-recognition-ner/)
 3. Sentiment Analysis (语言情绪分析) | [data and/or info](https://thecleverprogrammer.com/2020/12/07/sentiment-analysis-with-python/)
 - Twitter Sentiment Analysis [data and/or info](https://thecleverprogrammer.com/2020/06/13/twitter-sentiment-analysis/)
 - Movie Reviews Sentiment analysis (影评分析) [data and/or info](https://thecleverprogrammer.com/2020/05/25/movie-reviews-sentiment-analysis-binary-classification-with-machine-learning/)
